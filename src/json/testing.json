@@ -1,0 +1,21 @@
+[
+    {
+        "category": "TOP NOTE",
+        "name": "Mandarin",
+        "image": "/img/Mandarin.png",
+        "description": "Bright and tart, mandarin blends with the zestiness of lime to bring a vibrant freshness to the top notes."
+    },
+    {
+        "note": "HEART NOTE",
+        "name": "Basil",
+        "image": "/img/Basil.png",
+        "description": "The herbaceous warmth of basil, with a peppery edge, adds an unexpected twist to the vibrant citrus notes."
+    },
+    {
+        "note": "BASE NOTE",
+        "name": "Amberwood",
+        "image": "/img/Amberwood.png",
+        "description": "A woody note with an amber-like scent that brings addictive warmth to the fragrance."
+      
+    }
+]

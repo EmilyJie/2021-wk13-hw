@@ -1,0 +1,12 @@
+[
+    {
+       "title": "Freesia",
+       "name": "allProducts",
+       "url": "/"
+    },
+    {
+       "title": "Perfume",
+       "name": "perfume",
+       "url": "/perfume"
+    }
+ ]
